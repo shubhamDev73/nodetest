@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamDev73/nodetest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamDev73/nodetest/issues"
+  },
+  "homepage": "https://github.com/shubhamDev73/nodetest#readme", 
+  "engines": {
+  	"node": "6.11.3"
+  }
+}
