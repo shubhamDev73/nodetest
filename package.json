@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubhamDev73/nodetest.git"
+    "url": "https://github.com/shubhamDev73/nodetest.git"
   },
-  "keywords": [],
+  "keywords": ["node"],
   "author": "",
   "license": "ISC",
   "bugs": {
