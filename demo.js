@@ -5,3 +5,5 @@ http.createServer(function(request, response){
 	response.write("<h1>Welcome to "+request.url+"</h1>");
 	response.end();
 }).listen(process.env.PORT || 5000);
+
+console.log(process.env.PORT || 5000);
